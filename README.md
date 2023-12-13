@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://bit.ly/3haTh4a](https://bit.ly/3haTh4a)
 
-- ⚡ Fun fact **I think I'm funny and I will make you laugh 😂 **
+- ⚡ Fun fact **I think I'm funny and I will make you laugh 😂**
 
 
 
