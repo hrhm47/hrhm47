@@ -17,21 +17,21 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Haseeb Rehman</h1>
 <h3 align="center">A passionate React Native developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **MERN and Mobile Development**
+- 🔭 I’m currently working on **Mobile Development**
 
-- 🌱 I’m currently learning **React, ReactNative, NodeJs**
+- 🌱 I’m currently learning **ReactNative, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hrhm47](https://github.com/hrhm47)
 
 - 📝 I write articles on [https://medium.com/@haseeb26.07](https://medium.com/@haseeb26.07)
 
-- 💬 Ask me about **Websites Designing, Desktop Applications**
+- 💬 Ask me about **Mobile Design, Web Apps, and Desktop Applications**
 
 - 📫 How to reach me **haseebr470@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3haTh4a](https://bit.ly/3haTh4a)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm funny and I will make you laugh 😂 **
 
 
 
