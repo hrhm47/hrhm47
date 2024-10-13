@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Mobile Development**
 
-- 🌱 I’m currently learning **ReactNative, NodeJs**
+- 🌱 I’m currently learning **ReactNative, Expo, NodeJs(Beginner), Machine Learning(Beginner)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hrhm47](https://github.com/hrhm47)
 
-- 📝 I write articles on [https://medium.com/@haseeb26.07](https://medium.com/@haseeb26.07)
+- 📝 Sometimes I write articles on [https://medium.com/@haseeb26.07](https://medium.com/@haseeb26.07)
 
 - 💬 Ask me about **Mobile Design, Web Apps, and Desktop Applications**
 
 - 📫 How to reach me **haseebr470@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3haTh4a](https://bit.ly/3haTh4a)
+- 📄 Know about my experiences [https://www.linkedin.com/in/haseebreactnativedeveloper/]
 
 - ⚡ Fun fact **I think I'm funny and I will make you laugh 😂**
 
