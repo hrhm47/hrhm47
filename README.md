@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">I'm Haseeb Ur Rehman</h1>
-<h3 align="center">A passionate React Native developer from Pakistan</h3>
+<h3 align="center">A passionate Mobile App developer</h3>
 
 - 🔭 I’m currently Doing Masters In CS from Oulu Uni. and  working on **Mobile Development and Machine Learning**
 
