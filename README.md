@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **haseebr470@gmail.com**
 
-- 📄 Know about my experiences https://www.linkedin.com/in/haseebreactnativedeveloper/
+- 📄 Know about my experiences https://www.linkedin.com/in/haseeb-react-native-dev/
 
 - ⚡ Fun fact **I think I'm funny and I will make you laugh 😂**
 
